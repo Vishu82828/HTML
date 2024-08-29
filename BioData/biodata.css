@@ -1,0 +1,7 @@
+.bioData{
+    background-image: url(Background_img.jpg);
+    background-size: cover;
+    width: 50%;
+    height: 800px;
+    margin-left: 25%;
+}
